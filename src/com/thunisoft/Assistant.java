@@ -15,7 +15,7 @@ public class Assistant extends AbstractJavaSamplerClient {
 		Arguments args = new Arguments();
 		args.addArgument("数学分数", "10");
 		args.addArgument("语文分数", "20");
-		args.addArgument("total", "23");
+		args.addArgument("total", "231");
 		return args;
 	}
 
